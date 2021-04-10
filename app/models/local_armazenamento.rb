@@ -1,0 +1,2 @@
+class LocalArmazenamento < ApplicationRecord
+end
